@@ -1,3 +1,3 @@
-# japanese-pomodoro
+# 🏯🌸 Japanese Pomodoro Timer
 
-[Edit in StackBlitz next generation editor ⚡️](https://stackblitz.com/~/github.com/arshan-n/japanese-pomodoro)
+A simple pomodoro timer website with a cherry blossom pixel art background.
